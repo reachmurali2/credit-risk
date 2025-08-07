@@ -1,4 +1,4 @@
-# Lauki Finance: Credit Risk Modeling
+# Lauki Finance: Credit Risk Prediction Model
 
 A Streamlit-based web application to predict the credit default risk, credit score, and risk rating for loan applicants. This tool helps financial institutions assess the risk profile of individuals before loan approval.
 
